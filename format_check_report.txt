@@ -1,0 +1,9 @@
+Hey there!
+As you specified in the documentation, here are your wrong format cells!
+In the notebook we dealt with the problem using required formats using interesting functions ;))
+Films with incorrect format:
+1: {'video_name': 'Cosmos_War_of_the_Planets.mp4', 'resolution': (628, 'x', 354), 'frame_rate': '30000/1001', 'aspect_ratio': '314:177'}
+2: {'video_name': 'The_Hill_Gang_Rides_Again.mp4', 'frame_rate': '25/1', 'video_bitrate': '7537730'}
+3: {'video_name': 'The_Gun_and_the_Pulpit.avi', 'video_codec': 'rawvideo', 'resolution': (720, 'x', 404), 'frame_rate': '25/1', 'aspect_ratio': 'N/A', 'video_bitrate': '87438878', 'video_Format': '.avi'}
+4: {'video_name': 'Voyage_to_the_Planet_of_Prehistoric_Women.mp4', 'video_codec': 'hevc', 'frame_rate': '30000/1001', 'video_bitrate': '8038857'}
+5: {'video_name': 'Last_man_on_earth_1964.mov', 'video_codec': 'prores', 'frame_rate': '24000/1001', 'video_bitrate': '9285191', 'video_Format': '.mov'}
